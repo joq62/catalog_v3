@@ -1,6 +1,3 @@
 {"divi_app",["1.0.0"],"https://github.com/joq62/divi_app.git"}.
-{"sd_app",
- ["fatal: not a git repository (or any of the parent directories): .git"],
- "https://github.com/joq62/sd_app.git"}.
-{"sd_lib",["0.1.0","0.1.1","0.1.2"],"https://github.com/joq62/sd_lib.git"}.
+{"sd_app",["1.0.0"],"https://github.com/joq62/sd_app.git"}.
 {"service_app",["1.0.0"],"https://github.com/joq62/service_app.git"}.
