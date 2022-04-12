@@ -1,3 +1,9 @@
+{"config_app",["1.0.0","1.0.1"],"https://github.com/joq62/config_app.git"}.
+{"controller_app",
+ ["0.99.0","0.99.1","1.0.0"],
+ "https://github.com/joq62/controller_app.git"}.
 {"divi_app",["1.0.0"],"https://github.com/joq62/divi_app.git"}.
+{"log_app",["1.0.0","1.0.1"],"https://github.com/joq62/log_app.git"}.
 {"sd_app",["1.0.0"],"https://github.com/joq62/sd_app.git"}.
 {"service_app",["1.0.0"],"https://github.com/joq62/service_app.git"}.
+{"web_conbee_c201",["0.1.0"],"https://github.com/joq62/web_conbee_c201.git"}.
