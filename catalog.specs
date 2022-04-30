@@ -6,5 +6,5 @@
 {"log_app",["1.0.0","1.0.1"],"https://github.com/joq62/log_app.git"}.
 {"sd_app",["1.0.0"],"https://github.com/joq62/sd_app.git"}.
 {"service_app",["1.0.0"],"https://github.com/joq62/service_app.git"}.
-{"web_c100",[],"https://github.com/joq62/web_c100.git"}.
+{"web_c100",["0.1.0"],"https://github.com/joq62/web_c100.git"}.
 {"web_conbee_c201",["0.1.0"],"https://github.com/joq62/web_conbee_c201.git"}.
